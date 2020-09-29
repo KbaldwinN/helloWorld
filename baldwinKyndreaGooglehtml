@@ -1,0 +1,17 @@
+<html>
+<img src="https://www.google.com/logos/1998/googlebeta.jpg"
+</form>
+<h3>Search the web using Google</h3>
+<label for="tinput"> </label>
+  <input type="text" id="tinput" name="text input">
+<div>
+<button onclick="submitButton()">Google Search</button>
+<button onclick="submitButton()">I'm Feeling Lucky</button>
+</div>
+<div>
+<a href="https://www.google.com/">More Google!</a>
+</div>
+<div>
+<p>Copyright ©1999 Google Inc.</p>
+</div>
+</html>
